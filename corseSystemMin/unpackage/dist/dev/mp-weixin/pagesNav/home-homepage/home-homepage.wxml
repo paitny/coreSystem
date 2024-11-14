@@ -1,0 +1,1 @@
+<view class="container"><view class="center-container"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="button-one" bindtap="{{item.c}}"><view class="title">{{item.a}}</view><image src="https://wypty.cn/static/file/material/button.jpg" alt=""/></view></view></view>

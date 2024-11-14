@@ -1,0 +1,1 @@
+<view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="content" bindtap="{{item.d}}"><view class="left"><image class="img" src="{{item.a}}" alt=""></image></view><view class="right"><view class="text">{{item.b}}</view><view>></view></view></view>

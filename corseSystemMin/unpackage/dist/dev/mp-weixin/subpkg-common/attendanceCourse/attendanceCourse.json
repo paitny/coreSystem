@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查课反馈",
+  "usingComponents": {
+    "attendance-item": "../../components/AttendanceItem/AttendanceItem",
+    "uni-search-bar": "../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar"
+  }
+}

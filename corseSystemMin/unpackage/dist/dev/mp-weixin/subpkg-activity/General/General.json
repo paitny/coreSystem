@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "换届竞选信息填写",
+  "usingComponents": {
+    "feedback-pop": "../../components/FeedbackPop/FeedbackPop"
+  }
+}

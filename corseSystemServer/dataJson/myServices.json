@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "芯系查询",
+    "img": "/file/myServices/01.png",
+    "page": "/myServices/studentCadres/studentCadres",
+    "shouldShow": false
+  },
+  {
+    "id": 2,
+    "title": "部门成员",
+    "img": "/file/myServices/06.png",
+    "page": "/myServices/member/member",
+    "shouldShow": false
+  },
+  {
+    "id": 3,
+    "title": "空闲时间",
+    "img": "/file/myServices/02.png",
+    "page": "/myServices/freeUserTime/freeUserTime",
+    "shouldShow": false
+  },
+  {
+    "id": 4,
+    "title": "学干考核",
+    "img": "/file/myServices/07.png",
+    "page": "/myServices/examination/examination",
+    "shouldShow": false
+  },
+  {
+    "id": 5,
+    "title": "课程添加",
+    "img": "/file/myServices/03.png",
+    "page": "/myServices/addCourse/addCourse",
+    "shouldShow": true
+  },
+  {
+    "id": 6,
+    "title": "课程导入",
+    "img": "/file/myServices/05.png",
+    "page": "/myServices/courseImport/courseImport",
+    "shouldShow": true
+  },
+  {
+    "id": 7,
+    "title": "课程管理",
+    "img": "/file/myServices/04.png",
+    "page": "/myServices/courseMg/courseMg",
+    "shouldShow": true
+  },
+  {
+    "id": 8,
+    "title": "活动发布",
+    "img": "/file/myServices/08.png",
+    "page": "/myServices/eventRelease/eventRelease",
+    "shouldShow": false
+  },
+  {
+    "id": 9,
+    "title": "活动审核",
+    "img": "/file/myServices/10.png",
+    "page": "/myServices/eventRw/eventRw",
+    "shouldShow": false
+  },
+  {
+    "id": 10,
+    "title": "活动管理",
+    "img": "/file/myServices/09.png",
+    "page": "/myServices/eventMg/eventMg",
+    "shouldShow": false
+  },
+  {
+  "id": 11,
+  "title": "查课系统",
+  "img": "/file/myServices/11.png",
+  "page": "/myServices/checkCourse/checkCourse",
+  "shouldShow": false
+},
+  {
+    "id": 12,
+    "title": "查课反馈",
+    "img": "/file/myServices/12.png",
+    "page": "/myServices/courseFaceback/courseFaceback",
+    "shouldShow": false
+  },
+  {
+    "id": 13,
+    "title": "学生考勤",
+    "img": "/file/myServices/13.png",
+    "page": "/myServices/courseTime/courseTime",
+    "shouldShow": true
+  }
+]

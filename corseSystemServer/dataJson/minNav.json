@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "学院简介",
+    "img": "/file/minNav/01.png",
+    "page":"/pagesNav/home-homepage/home-homepage"
+  },
+
+  {
+    "id": 2,
+    "title": "师资队伍",
+    "img": "/file/minNav/03.png",
+    "page":"/pagesNav/home-Application/home-Application"
+  },
+  {
+    "id": 3,
+    "title": "信息榜样",
+    "img": "/file/minNav/04.png",
+    "page":"/pagesNav/home-regiment/home-regiment"
+  },
+  {
+    "id": 4,
+    "title": "学院机构",
+    "img": "/file/minNav/05.png",
+    "page":"/pagesNav/home-student/home-student"
+  },
+  {
+    "id": 5,
+    "title": "竞赛信息",
+    "img": "/file/minNav/07.png",
+    "page":"/pagesNav/home-selfmanaged/home-selfmanaged"
+  }
+]

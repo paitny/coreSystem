@@ -1,0 +1,46 @@
+[
+  {
+    "name": "杨英",
+    "ID": "231060250152",
+    "grade": "2023级",
+    "classes": "网络工程1班",
+    "levels": "本",
+    "counsellor": "郭晗昕",
+    "phoneNumber": "暂无",
+    "activityId": "66169bdc446358b251156c82",
+    "semester": "2023-2024学年度第二学期"
+  },
+  {
+    "name": "张雲峰",
+    "ID": "221060150508",
+    "grade": "2022级",
+    "classes": "计算机科学与技术5班",
+    "levels": "本",
+    "counsellor": "粟扬",
+    "phoneNumber": "暂无",
+    "activityId": "66169bdc446358b251156c82",
+    "semester": "2023-2024学年度第二学期"
+  },
+  {
+    "name": "张秋林",
+    "ID": "231060250150",
+    "grade": "2023级",
+    "classes": "网络工程1班",
+    "levels": "本",
+    "counsellor": "郭晗昕",
+    "phoneNumber": "暂无",
+    "activityId": "66169bdc446358b251156c82",
+    "semester": "2023-2024学年度第二学期"
+  },
+  {
+    "name": "刘雨欣",
+    "ID": "231060150136",
+    "grade": "2023级",
+    "classes": "计算机科学与技术1班",
+    "levels": "本",
+    "counsellor": "郭晗昕",
+    "phoneNumber": "暂无",
+    "activityId": "66169bdc446358b251156c82",
+    "semester": "2023-2024学年度第二学期"
+  }
+]

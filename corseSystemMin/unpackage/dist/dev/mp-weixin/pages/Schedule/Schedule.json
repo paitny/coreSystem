@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "课表",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "class-pop": "../../components/classPop/classPop",
+    "course-skeleton": "../../components/courseSkeleton/courseSkeleton"
+  }
+}

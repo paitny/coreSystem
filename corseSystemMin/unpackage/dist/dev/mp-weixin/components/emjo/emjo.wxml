@@ -1,0 +1,1 @@
+<view class="emoji" style="{{'height:' + b}}"><view wx:for="{{a}}" wx:for-item="line" wx:key="b" class="emoji-line"><view wx:for="{{line.a}}" wx:for-item="item" wx:key="b" class="emoji-line-item" bindtap="{{item.c}}">{{item.a}}</view></view></view>

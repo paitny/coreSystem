@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "芯系小助手",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "submit": "../../components/submit/submit"
+  }
+}

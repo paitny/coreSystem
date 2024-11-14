@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="floating-window data-v-d87e95f2" bindtap="{{d}}"><image class="data-v-d87e95f2" bindtap="{{b}}" src="{{c}}" mode=""></image></view><view wx:else class="floating-window data-v-d87e95f2" bindtap="{{f}}"><image class="data-v-d87e95f2" src="{{e}}" mode=""></image></view>

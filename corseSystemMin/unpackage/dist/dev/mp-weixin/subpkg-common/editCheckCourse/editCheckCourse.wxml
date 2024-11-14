@@ -1,0 +1,1 @@
+<view class="container"><view class="attendance-list"><view wx:for="{{a}}" wx:for-item="user" wx:key="e" class="student"><text>{{user.a}}</text><button bindtap="{{user.b}}">请假</button><button bindtap="{{user.c}}">缺席</button><button bindtap="{{user.d}}">实到</button></view></view><button bindtap="{{b}}">提交考勤数据</button></view>

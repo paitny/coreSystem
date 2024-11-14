@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "活动广场",
+  "usingComponents": {
+    "ranking-load": "../../components/ranking-skeleton/ranking-skeleton"
+  }
+}

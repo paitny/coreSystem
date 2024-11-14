@@ -1,0 +1,120 @@
+
+	/* 样式保持不变 */
+.dialog.data-v-c71dff12 {
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background: rgba(0, 0, 0, 0.5);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: 999;
+}
+.dialog-content.data-v-c71dff12 {
+		position: relative;
+		background: white;
+		padding: 20px;
+		border-radius: 8px;
+		text-align: center;
+		z-index: 999999;
+		min-width: 600rpx;
+		min-height: 680rpx;
+}
+.dialog-footer button.data-v-c71dff12 {
+		background-color: #007AFF;
+		/* 按钮背景颜色 */
+		color: white;
+		/* 按钮文本颜色 */
+		border: none;
+		/* 去掉边框 */
+		border-radius: 25px;
+		/* 圆角 */
+		padding: 10px 20px;
+		/* 内边距 */
+		margin: 5px;
+		/* 外边距 */
+		cursor: pointer;
+		/* 鼠标指针样式 */
+		transition: background-color 0.3s, transform 0.2s;
+		/* 动画效果 */
+}
+.dialog-footer button.data-v-c71dff12:hover {
+		background-color: #0056b3;
+		/* 鼠标悬停时的背景颜色 */
+		transform: scale(1.05);
+		/* 鼠标悬停时放大效果 */
+}
+.dialog-footer button.data-v-c71dff12:active {
+		transform: scale(0.95);
+		/* 点击时缩小效果 */
+}
+.loadingMac.data-v-c71dff12 {
+		width: 300px;
+		height: 300px;
+		margin: 0 auto;
+}
+.loader.data-v-c71dff12 {
+		border: 8px solid #f3f3f3;
+		border-top: 8px solid #3498db;
+		border-radius: 50%;
+		width: 250px;
+		height: 250px;
+		animation: spin-c71dff12 1s linear infinite;
+		margin: 0 auto;
+}
+@keyframes spin-c71dff12 {
+0% {
+			transform: rotate(0deg);
+}
+100% {
+			transform: rotate(360deg);
+}
+}
+.dialog-footer.data-v-c71dff12 {
+		display: flex;
+		justify-content: space-around;
+		margin-top: 10px;
+}
+.close-button.data-v-c71dff12 {
+		width: 50rpx;
+		height: 50rpx;
+		background-color: #4d6398;
+		position: absolute;
+		font-size: 50rpx;
+		right: -15rpx;
+		top: -15rpx;
+		border-radius: 50%;
+		text-align: center;
+		line-height: 50rpx;
+		color: #fff;
+}
+.close-button.data-v-c71dff12:hover {
+		color: #ff0000;
+		/* 悬停时的颜色 */
+}
+.floating-button.data-v-c71dff12 {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		background: #007AFF;
+		color: white;
+		padding: 15px 15px;
+		width: 50rpx;
+		height: 50rpx;
+		border-radius: 50%;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+		text-align: center;
+		z-index: 999999;
+}
+.error-message.data-v-c71dff12 {
+		color: red;
+		margin-top: 10px;
+}
+.errorMsg.data-v-c71dff12 {
+		height: 250px;
+		margin: 0 auto;
+		text-align: center;
+		line-height: 250px;
+}

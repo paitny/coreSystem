@@ -1,0 +1,1 @@
+<view class="container"><view class="title"><view class="orgImg">人工智能与大数据学院组织机构图</view><view class="time">2022年07月21日</view></view><image bindtap="{{a}}" src="https://wypty.cn/static/file/material/Organization.png"></image></view>

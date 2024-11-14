@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "min-nav": "../../components/minNav/minNav",
+    "load": "../../components/load/load",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

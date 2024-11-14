@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "账号问题反馈",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "feedback-pop": "../../components/FeedbackPop/FeedbackPop"
+  }
+}

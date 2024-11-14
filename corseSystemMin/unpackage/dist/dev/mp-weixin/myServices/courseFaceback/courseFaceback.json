@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "查课反馈",
+  "usingComponents": {
+    "loading": "../../components/loading/loading",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-swipe-action-item": "../../uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item"
+  }
+}

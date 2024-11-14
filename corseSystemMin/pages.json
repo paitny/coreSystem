@@ -1,0 +1,520 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/Schedule/Schedule",
+			"style": {
+				"navigationBarTitleText": "课表",
+				"enablePullDownRefresh": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/leave/leave",
+			"style": {
+				"navigationBarTitleText": "学生动态",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/me/me",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path" : "pages/ranking/ranking",
+			"style" : 
+			{
+				"navigationBarTitleText" : "活动广场"
+			}
+		}
+	],
+	"subPackages": [
+		{
+			"root": "pagesMe",
+			"pages": [{
+				"path": "login/login",
+				"style": {
+					"navigationBarTitleText": "登录",
+					"enablePullDownRefresh": false
+				}
+			}
+			
+			]
+		},
+
+		{
+			"root": "pagesNav",
+			"pages": [{
+					"path": "home-homepage/home-homepage",
+					"style": {
+						"navigationBarTitleText": "人工智能与大数据学院",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home-regiment/home-regiment",
+					"style": {
+						"navigationBarTitleText": "学院榜样",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home-selfmanaged/home-selfmanaged",
+					"style": {
+						"navigationBarTitleText": "竞赛信息",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home-Application/home-Application",
+					"style": {
+						"navigationBarTitleText": "师资队伍",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home-student/home-student",
+					"style": {
+						"navigationBarTitleText": "学生机构",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "societies/societies",
+					"style": {
+						"navigationBarTitleText": "芯系小助手",
+						"enablePullDownRefresh": false
+					}
+				}
+
+
+
+			]
+		},
+
+		{
+			"root": "pagesHome",
+			"pages": [{
+					"path": "news/news",
+					"style": {
+						"navigationBarTitleText": "文章详情",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "institution/institution",
+					"style": {
+						"navigationBarTitleText": "详情介绍",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "Departments/Departments",
+					"style": {
+						"navigationBarTitleText": "学生部门",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "application/active",
+					"style": {
+						"navigationBarTitleText": "活动报名",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "activity/latest",
+					"style": {
+						"navigationBarTitleText": "校园动态",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "activity/institution",
+					"style": {
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "activity/volunteer",
+					"style": {
+						"navigationBarTitleText": "活动",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home/organization",
+					"style": {
+						"navigationBarTitleText": "机构图",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home/overview",
+					"style": {
+						"navigationBarTitleText": "学院概况",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "home/speciality",
+					"style": {
+						"navigationBarTitleText": "专业介绍",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		},
+		{
+			"root": "subpkg-common",
+			
+			"pages": [{
+					"path": "setting/setting",
+					"style": {
+						"navigationBarTitleText": "设置",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "courseInfo/courseInfo",
+					"style": {
+						"navigationBarTitleText": "课程详情",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "webview/webview",
+					"style": {
+						"navigationBarTitleText": "信工官网",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "freeUser/freeUser",
+					"style": {
+						"navigationBarTitleText": "学生干部空闲时间名单",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "sendLeave/sendLeave",
+					"style": {
+						"navigationBarTitleText": "动态发布",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "search/search",
+					"style": {
+						"navigationBarTitleText": "智能引擎",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "updateCourse/updateCourse",
+					"style": {
+						"navigationBarTitleText": "课程修改",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "modify/modify",
+					"style": {
+						"navigationBarTitleText": "个人信息修改",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "testPaper/testPaper",
+					"style": {
+						"navigationBarTitleText": "考试卷",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "change-password/change-password",
+					"style": {
+						"navigationBarTitleText": "修改密码",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "printFoot/printFoot",
+					"style": {
+						"navigationBarTitleText": "浏览记录",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path" : "feedback/feedback",
+					"style" : 
+					{
+						"navigationBarTitleText" : "账号问题反馈",
+						"enablePullDownRefresh" : false
+					}
+				},
+				{
+					"path" : "grades/grades",
+					"style" : 
+					{
+						"navigationBarTitleText" : "考核成绩查询"
+					}
+				},
+				{
+					"path" : "attendanceCourse/attendanceCourse",
+					"style" : 
+					{
+						"navigationBarTitleText" : "查课反馈"
+					}
+				},
+				{
+					"path" : "editCheckCourse/editCheckCourse",
+					"style" : 
+					{
+						"navigationBarTitleText" : ""
+					}
+				}
+			]
+		},
+		{
+			"root": "myServices",
+			"pages": [{
+					"path": "addCourse/addCourse",
+					"style": {
+						"navigationBarTitleText": "课程添加",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "courseImport/courseImport",
+					"style": {
+						"navigationBarTitleText": "课程导入",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "courseMg/courseMg",
+					"style": {
+						"navigationBarTitleText": "课程管理",
+						"enablePullDownRefresh": true
+					}
+				},
+				{
+					"path": "freeUserTime/freeUserTime",
+					"style": {
+						"navigationBarTitleText": "空闲学生名单",
+						"enablePullDownRefresh": false,
+						"navigationStyle": "custom"
+					}
+				},
+				{
+					"path": "studentCadres/studentCadres",
+					"style": {
+						"navigationBarTitleText": "人工智能与大数据学院",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "member/member",
+					"style": {
+						"navigationBarTitleText": "部门成员",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "examination/examination",
+					"style": {
+						"navigationBarTitleText": "学生干部考核系统",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "eventRelease/eventRelease",
+					"style": {
+						"navigationBarTitleText": "活动发布",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "eventMg/eventMg",
+					"style": {
+						"navigationBarTitleText": "活动管理",
+						"enablePullDownRefresh": true
+					}
+				},
+				{
+					"path": "updateRelease/updateRelease",
+					"style": {
+						"navigationBarTitleText": "活动修改",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path" : "eventRw/eventRw",
+					"style" : 
+					{
+						"navigationBarTitleText" : "活动审核区",
+						"enablePullDownRefresh" : false
+					}
+				},
+				{
+					"path" : "checkCourse/checkCourse",
+					"style" : 
+					{
+						"navigationBarTitleText" : "查课系统"
+					}
+				},
+				{
+					"path" : "courseFaceback/courseFaceback",
+					"style" : 
+					{
+						"navigationBarTitleText" : "查课反馈"
+					}
+				},
+				{
+					"path" : "courseTime/courseTime",
+					"style" : 
+					{
+						"navigationBarTitleText" : "我的考勤"
+					}
+				}
+			]
+		},
+		{
+			"root": "subpkg-activity",
+			"pages": [{
+					"path": "signPage/signPage",
+					"style": {
+						"navigationBarTitleText": "活动签到",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "myCollect/myCollect",
+					"style": {
+						"navigationBarTitleText": "我的收藏",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path" : "General/General",
+					"style" : 
+					{
+						"navigationBarTitleText" : "换届竞选信息填写"
+					}
+				}
+			]
+		},
+		{
+			"root": "subpkg-visualization",
+			"pages": [{
+					"path": "myActivity/myActivity",
+					"style": {
+						"navigationBarTitleText": "我的活动",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "Visualization/Visualization",
+					"style": {
+						"navigationBarTitleText": "活动可视化",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "studentActivity/studentActivity",
+					"style": {
+						"navigationBarTitleText": "可视化详情",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path" : "ClassVisualization/ClassVisualization",
+					"style" : 
+					{
+						"navigationBarTitleText" : "查课可视化"
+					}
+				},
+				{
+					"path" : "checkCourseData/checkCourseData",
+					"style" : 
+					{
+						"navigationBarTitleText" : "班级查课情况"
+					}
+				},
+				{
+					"path" : "checkCourseCount/checkCourseCount",
+					"style" : 
+					{
+						"navigationBarTitleText" : ""
+					}
+				}
+			]
+		}
+
+
+	],
+	//预加载
+	"preloadRule": {
+		"pages/index/index": {
+			"network": "wifi",
+			"packages": ["pagesNav"] // 在 pages/index 页面中预加载名为 pagesA分包内容
+		}
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundTextStyle": "dark",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"backgroundColor": "#fff",
+		"list": [{
+				"iconPath": "static/tab_icons/home.png",
+				"selectedIconPath": "static/tab_icons/homeActive.png",
+				"pagePath": "pages/index/index",
+				"text": "首页"
+			},
+			{
+				"iconPath": "static/tab_icons/microcosm.png",
+				"selectedIconPath": "static/tab_icons/microcosmActive.png",
+				"pagePath": "pages/leave/leave",
+				"text": "动态"
+			},
+			{
+				"iconPath": "static/tab_icons/operation.png",
+				"selectedIconPath": "static/tab_icons/operation.png",
+				"pagePath": "pages/ranking/ranking",
+				"text": "活动广场"
+			},
+			{
+				"iconPath": "static/tab_icons/course.png",
+				"selectedIconPath": "static/tab_icons/courseActive.png",
+				"pagePath": "pages/Schedule/Schedule",
+				"text": "课表"
+			},
+			
+			{
+				"iconPath": "static/tab_icons/me.png",
+				"selectedIconPath": "static/tab_icons/meActive.png",
+				"pagePath": "pages/me/me",
+				"text": "我的"
+			}
+		]
+	}
+}

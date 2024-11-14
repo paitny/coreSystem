@@ -1,0 +1,1 @@
+<view wx:for="{{a}}" wx:for-item="item" wx:key="f" class="content"><view class="p1"><view class="name">{{item.a}}</view><view class="school">{{item.b}}</view><view class="class">{{item.c}}</view><view class="money">{{item.d}}</view></view><view class="p2"><image class="img" src="{{item.e}}"></image></view></view>

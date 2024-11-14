@@ -1,0 +1,1 @@
+<view class="container"><view class="info-box"><view class="course-title">{{a}}</view><view class="info-list"><view wx:for="{{b}}" wx:for-item="item" wx:key="c" class="info-item"><view class="info-item__key">{{item.a}}</view><view class="info-item__val">{{item.b}}</view></view></view></view></view>

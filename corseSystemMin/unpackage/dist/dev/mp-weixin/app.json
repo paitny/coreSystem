@@ -1,0 +1,160 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Schedule/Schedule",
+    "pages/leave/leave",
+    "pages/me/me",
+    "pages/ranking/ranking"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesMe",
+      "pages": [
+        "login/login"
+      ]
+    },
+    {
+      "root": "pagesNav",
+      "pages": [
+        "home-homepage/home-homepage",
+        "home-regiment/home-regiment",
+        "home-selfmanaged/home-selfmanaged",
+        "home-Application/home-Application",
+        "home-student/home-student",
+        "societies/societies"
+      ]
+    },
+    {
+      "root": "pagesHome",
+      "pages": [
+        "news/news",
+        "institution/institution",
+        "Departments/Departments",
+        "application/active",
+        "activity/latest",
+        "activity/institution",
+        "activity/volunteer",
+        "home/organization",
+        "home/overview",
+        "home/speciality"
+      ]
+    },
+    {
+      "root": "subpkg-common",
+      "pages": [
+        "setting/setting",
+        "courseInfo/courseInfo",
+        "webview/webview",
+        "freeUser/freeUser",
+        "sendLeave/sendLeave",
+        "search/search",
+        "updateCourse/updateCourse",
+        "modify/modify",
+        "testPaper/testPaper",
+        "change-password/change-password",
+        "printFoot/printFoot",
+        "feedback/feedback",
+        "grades/grades",
+        "attendanceCourse/attendanceCourse",
+        "editCheckCourse/editCheckCourse"
+      ]
+    },
+    {
+      "root": "myServices",
+      "pages": [
+        "addCourse/addCourse",
+        "courseImport/courseImport",
+        "courseMg/courseMg",
+        "freeUserTime/freeUserTime",
+        "studentCadres/studentCadres",
+        "member/member",
+        "examination/examination",
+        "eventRelease/eventRelease",
+        "eventMg/eventMg",
+        "updateRelease/updateRelease",
+        "eventRw/eventRw",
+        "checkCourse/checkCourse",
+        "courseFaceback/courseFaceback",
+        "courseTime/courseTime"
+      ]
+    },
+    {
+      "root": "subpkg-activity",
+      "pages": [
+        "signPage/signPage",
+        "myCollect/myCollect",
+        "General/General"
+      ]
+    },
+    {
+      "root": "subpkg-visualization",
+      "pages": [
+        "myActivity/myActivity",
+        "Visualization/Visualization",
+        "studentActivity/studentActivity",
+        "ClassVisualization/ClassVisualization",
+        "checkCourseData/checkCourseData",
+        "checkCourseCount/checkCourseCount"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "iconPath": "static/tab_icons/home.png",
+        "selectedIconPath": "static/tab_icons/homeActive.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/tab_icons/microcosm.png",
+        "selectedIconPath": "static/tab_icons/microcosmActive.png",
+        "pagePath": "pages/leave/leave",
+        "text": "动态"
+      },
+      {
+        "iconPath": "static/tab_icons/operation.png",
+        "selectedIconPath": "static/tab_icons/operation.png",
+        "pagePath": "pages/ranking/ranking",
+        "text": "活动广场"
+      },
+      {
+        "iconPath": "static/tab_icons/course.png",
+        "selectedIconPath": "static/tab_icons/courseActive.png",
+        "pagePath": "pages/Schedule/Schedule",
+        "text": "课表"
+      },
+      {
+        "iconPath": "static/tab_icons/me.png",
+        "selectedIconPath": "static/tab_icons/meActive.png",
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "wifi",
+      "packages": [
+        "pagesNav"
+      ]
+    }
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "校园导航"
+    }
+  },
+  "usingComponents": {}
+}

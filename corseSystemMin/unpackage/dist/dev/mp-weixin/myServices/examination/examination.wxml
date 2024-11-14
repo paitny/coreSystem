@@ -1,0 +1,1 @@
+<view wx:for="{{a}}" wx:for-item="item" wx:key="e" class="testBox data-v-885954df"><view class="testbox-top data-v-885954df"><view class="title data-v-885954df">{{item.a}}</view><view class="time data-v-885954df">开始时间：{{item.b}}</view><view class="time data-v-885954df">截止时间：{{item.c}}</view></view><view class="startButton data-v-885954df" bindtap="{{item.d}}">开始答题</view></view>

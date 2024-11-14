@@ -1,0 +1,242 @@
+/* 水平间距 */
+/* 水平间距 */
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.skeleton-container.data-v-94ec6496 {
+  background-color: #fff;
+  height: 435rpx;
+  position: relative;
+  /* 搜索骨架屏 */
+}
+.skeleton-container .skeleton-search.data-v-94ec6496 {
+  position: fixed;
+  top: 20rpx;
+  left: 0;
+  right: 0;
+  bottom: -1rpx;
+  z-index: 1;
+  width: 100%;
+  height: 100rpx;
+}
+.skeleton-container .skeleton-search-content.data-v-94ec6496 {
+  width: 90%;
+  height: 70rpx;
+  margin: auto;
+  border: 1rpx solid #E6E6E6;
+  border-radius: 100rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9F9F9F;
+  background-color: #fff;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-container .skeleton-search-icon.data-v-94ec6496 {
+  width: 30rpx;
+  /* 图标宽度 */
+  height: 30rpx;
+  /* 图标高度 */
+  background-color: #ccc;
+  /* 图标占位背景色 */
+  border-radius: 50%;
+  /* 图标圆角 */
+  margin-right: 10rpx;
+  /* 图标右侧间距 */
+}
+.skeleton-container .skeleton-search-text.data-v-94ec6496 {
+  height: 26rpx;
+  width: 270rpx;
+  /* 文本占位高度 */
+  background-color: #ccc;
+  /* 文本占位背景色 */
+}
+.skeleton-container .skeleton-news-list.data-v-94ec6496 {
+  padding: 10px;
+  background-color: #fff;
+}
+.skeleton-container .skeleton-swiper.data-v-94ec6496 {
+  width: 90%;
+  height: 70%;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #ccc;
+  border-radius: 18rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-nav.data-v-94ec6496 {
+  width: 100%;
+  height: 300rpx;
+  background-color: #fff;
+  margin-top: 20rpx;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20rpx;
+}
+.skeleton-nav .skeleton-navItem.data-v-94ec6496 {
+  height: 110rpx;
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.skeleton-nav .skeleton-navItem .skeleton-navItem-icon.data-v-94ec6496 {
+  height: 80rpx;
+  width: 80rpx;
+  background-color: #ccc;
+  margin: 0 auto;
+  border-radius: 10rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-nav .skeleton-navItem .skeleton-navItem-text.data-v-94ec6496 {
+  height: 20rpx;
+  width: 80rpx;
+  background-color: #ccc;
+  margin: 0 auto;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-bigNav.data-v-94ec6496 {
+  width: 100%;
+  height: 350rpx;
+  background-color: #fff;
+  margin-top: 20rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.skeleton-bigNav .skeleton-bigNav-left.data-v-94ec6496 {
+  width: 40%;
+  height: 90%;
+  border-radius: 20rpx;
+  background-color: #ccc;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-bigNav .skeleton-bigNav-right.data-v-94ec6496 {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.skeleton-bigNav .skeleton-bigNav-right .skeleton-bigNav-right-top.data-v-94ec6496 {
+  width: 100%;
+  height: 40%;
+  background-color: #ccc;
+  border-radius: 20rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-bigNav .skeleton-bigNav-right .skeleton-bigNav-right-bottom.data-v-94ec6496 {
+  width: 100%;
+  height: 40%;
+  background-color: #ccc;
+  border-radius: 20rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-news.data-v-94ec6496 {
+  width: 100%;
+  height: 70rpx;
+  background-color: #fff;
+  margin-top: 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.skeleton-news .skeleton-news-text.data-v-94ec6496 {
+  width: 100rpx;
+  height: 40rpx;
+  background-color: #ccc;
+  margin-left: 10rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-news .skeleton-news-all.data-v-94ec6496 {
+  width: 50rpx;
+  height: 30rpx;
+  background-color: #ccc;
+  margin-right: 10rpx;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-news-list.data-v-94ec6496 {
+  padding: 10px;
+  background-color: #fff;
+}
+.skeleton-news-item.data-v-94ec6496 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  position: relative;
+  background-color: #f0f0f0;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-cover.data-v-94ec6496 {
+  width: 100px;
+  height: 70px;
+  background-color: #ccc;
+  margin-right: 10px;
+  border-radius: 5rpx;
+  animation: loading-94ec6496 1.5s infinite;
+  margin-left: 20rpx;
+}
+.skeleton-news-details.data-v-94ec6496 {
+  flex: 1;
+}
+.skeleton-title.data-v-94ec6496 {
+  height: 40px;
+  background-color: #ccc;
+  margin-bottom: 20px;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-description.data-v-94ec6496 {
+  height: 20px;
+  background-color: #ccc;
+  margin-bottom: 10px;
+  animation: loading-94ec6496 1.5s infinite;
+}
+.skeleton-meta.data-v-94ec6496 {
+  display: flex;
+  justify-content: space-between;
+}
+.skeleton-views.data-v-94ec6496,
+.skeleton-author.data-v-94ec6496,
+.skeleton-publish-time.data-v-94ec6496 {
+  width: 30%;
+  height: 16px;
+  background-color: #ccc;
+  animation: loading-94ec6496 1.5s infinite;
+}
+
+/* 添加动画效果 */
+@keyframes loading-94ec6496 {
+0% {
+    opacity: 0.5;
+}
+50% {
+    opacity: 0.9;
+}
+100% {
+    opacity: 0.5;
+}
+}

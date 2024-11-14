@@ -1,0 +1,30 @@
+@import "./common.scss";
+@import './variable.scss';
+
+div {
+  color: $menuBg;
+}
+
+.table {
+  overflow: hidden;
+  padding: 15px 20px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  background-color: #fff;
+
+}
+
+.filter-section {
+  margin-bottom: 20px !important;
+}
+
+.filter {
+  width: 20% !important;
+  height: 30px !important;
+  margin-right: 20px;
+}
+
+.pagination {
+  float: right;
+  margin-top: 10px;
+}

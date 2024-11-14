@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1",
+    "clipboard": "^2.0.11",
+    "cordova-plugin-admob-free": "^0.27.0",
+    "marked": "^10.0.0",
+    " ": "^2.29.4",
+    "node-fetch": "^3.3.2",
+    "npm": "^10.2.4",
+    "save": "^2.9.0",
+    "vuex": "^4.1.0",
+    "xlsx": "^0.18.5"
+  }
+}

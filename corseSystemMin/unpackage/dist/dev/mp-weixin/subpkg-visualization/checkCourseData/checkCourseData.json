@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "班级查课情况",
+  "usingComponents": {
+    "uni-search-bar": "../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "loading": "../../components/loading/loading"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学生干部空闲时间名单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "back-to-top": "../../components/backToTop/backToTop",
+    "loading": "../../components/loading/loading"
+  }
+}

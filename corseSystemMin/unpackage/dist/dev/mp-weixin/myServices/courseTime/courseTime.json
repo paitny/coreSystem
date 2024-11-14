@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的考勤",
+  "usingComponents": {
+    "coursepop": "../../components/coursepop/coursepop",
+    "loading": "../../components/loading/loading"
+  }
+}

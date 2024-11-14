@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查课可视化",
+  "usingComponents": {
+    "number-roller": "../../components/countUp/countUp",
+    "qiun-data-charts": "../../uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts"
+  }
+}

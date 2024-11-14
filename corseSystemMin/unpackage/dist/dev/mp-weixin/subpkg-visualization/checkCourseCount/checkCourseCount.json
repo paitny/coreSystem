@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "check-course-count-load": "../../components/checkCourse-skeleton/checkCourse-skeleton"
+  }
+}

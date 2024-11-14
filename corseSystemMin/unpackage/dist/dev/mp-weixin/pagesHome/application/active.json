@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动报名",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "ac-group": "../../components/acGroup/acGroup",
+    "q-r-code": "../../components/QRCode/QRCode"
+  }
+}

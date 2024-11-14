@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "查课系统",
+  "usingComponents": {
+    "class-pop": "../../components/classPop/classPop"
+  }
+}

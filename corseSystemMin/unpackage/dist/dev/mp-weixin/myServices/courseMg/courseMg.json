@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "课程管理",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "loading": "../../components/loading/loading"
+  }
+}

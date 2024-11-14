@@ -1,0 +1,1708 @@
+{
+  "questions": [
+    {
+      "type": "single-choice",
+      "text": "学生干部如何更好地沟通与团队协作？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "强调个人权威"
+        },
+        {
+          "label": "B",
+          "value": "注重团队建设"
+        },
+        {
+          "label": "C",
+          "value": "避免与同学交流"
+        },
+        {
+          "label": "D",
+          "value": "独断专行，不征求意见"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部应该如何处理同学间的矛盾和纠纷？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "偏袒某一方"
+        },
+        {
+          "label": "B",
+          "value": "公正中立，调解矛盾"
+        },
+        {
+          "label": "C",
+          "value": "采取暴力手段，解决问题"
+        },
+        {
+          "label": "D",
+          "value": "不理睬，自然解决"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部的团队管理应该遵循哪个原则？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "个人英雄主义"
+        },
+        {
+          "label": "B",
+          "value": "集体领导，民主决策"
+        },
+        {
+          "label": "C",
+          "value": "严厉指挥，严加管理"
+        },
+        {
+          "label": "D",
+          "value": "追求个人利益"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部在处理校园活动预算时，应该优先考虑？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "节省成本，尽量减少支出"
+        },
+        {
+          "label": "B",
+          "value": "合理分配，确保活动顺利进行"
+        },
+        {
+          "label": "C",
+          "value": "挪用公款，满足个人需求"
+        },
+        {
+          "label": "D",
+          "value": "不考虑预算，随意支配资金"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院在第届二十一师生运动会中学生组的名次是（  ）。",
+      "options": [
+        {
+          "label": "A",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院教学秘书办公室是（  ）。",
+      "options": [
+        {
+          "label": "A",
+          "value": "A216"
+        },
+        {
+          "label": "B",
+          "value": "A215"
+        },
+        {
+          "label": "C",
+          "value": "A214"
+        },
+        {
+          "label": "D",
+          "value": "A213"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的首次全国代表大会在哪一年举行？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年"
+        },
+        {
+          "label": "B",
+          "value": "1921年"
+        },
+        {
+          "label": "C",
+          "value": "1922年"
+        },
+        {
+          "label": "D",
+          "value": "1923年"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的最高权力机关是？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "中央委员会"
+        },
+        {
+          "label": "B",
+          "value": "中央政治局"
+        },
+        {
+          "label": "C",
+          "value": "全国代表大会"
+        },
+        {
+          "label": "D",
+          "value": "中央纪律检查委员会"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的创建地点是？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "上海"
+        },
+        {
+          "label": "B",
+          "value": "北京"
+        },
+        {
+          "label": "C",
+          "value": "南昌"
+        },
+        {
+          "label": "D",
+          "value": "广州"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的创建日期是？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年7月23日"
+        },
+        {
+          "label": "B",
+          "value": "1921年7月1日"
+        },
+        {
+          "label": "C",
+          "value": "1921年7月23日"
+        },
+        {
+          "label": "D",
+          "value": "1921年8月1日"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的最高理想信念是？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "共产主义"
+        },
+        {
+          "label": "B",
+          "value": "社会主义"
+        },
+        {
+          "label": "C",
+          "value": "马克思主义"
+        },
+        {
+          "label": "D",
+          "value": "列宁主义"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共青团的建立日期是？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年7月23日"
+        },
+        {
+          "label": "B",
+          "value": "1923年5月5日"
+        },
+        {
+          "label": "C",
+          "value": "1921年7月1日"
+        },
+        {
+          "label": "D",
+          "value": "1922年1月1日"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "2021-2022学年度我校举办的 “一院一品”电脑嘉年华系列活动之计算机技能大赛是第（  ）届",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "15"
+        },
+        {
+          "label": "B",
+          "value": "12"
+        },
+        {
+          "label": "C",
+          "value": "14"
+        },
+        {
+          "label": "D",
+          "value": "13"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院的微信公众号名称是（ ）。",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "信运有你，E路同行"
+        },
+        {
+          "label": "B",
+          "value": "文理智数"
+        },
+        {
+          "label": "C",
+          "value": "成都文理信工在线"
+        },
+        {
+          "label": "D",
+          "value": "成都文理信息工程学院"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "每月部门总结上交时间（  ）",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "19日23:00"
+        },
+        {
+          "label": "B",
+          "value": "18日23:00"
+        },
+        {
+          "label": "C",
+          "value": "19日24:00"
+        },
+        {
+          "label": "D",
+          "value": "18日24:00"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "在2024年9月23日，我院成功并且顺利举办了第（）届Upower校园大使选拔赛决赛。",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "十"
+        },
+        {
+          "label": "B",
+          "value": "十一"
+        },
+        {
+          "label": "C",
+          "value": "十二"
+        },
+        {
+          "label": "D",
+          "value": "十三"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "科任老师的办公室在（）。",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "A217"
+        },
+        {
+          "label": "B",
+          "value": "A317"
+        },
+        {
+          "label": "C",
+          "value": "A213"
+        },
+        {
+          "label": "D",
+          "value": "A211"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "在选拔新一届学生会成员时，最重要的评价标准是（）。",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "个人才艺展示"
+        },
+        {
+          "label": "B",
+          "value": "过往工作经验"
+        },
+        {
+          "label": "C",
+          "value": "团队合作精神和责任感"
+        },
+        {
+          "label": "D",
+          "value": "学习成绩优异"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院用于日常活动报名的微信小程序名称是（）。",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "信息小助手"
+        },
+        {
+          "label": "B",
+          "value": "芯系小助手"
+        },
+        {
+          "label": "C",
+          "value": "信工小助手"
+        },
+        {
+          "label": "D",
+          "value": "文理小助手"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "共青团的最早名称叫什么？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "中国社会主义青年团"
+        },
+        {
+          "label": "B",
+          "value": "中国共产主义青年团"
+        },
+        {
+          "label": "C",
+          "value": "中国新民主主义青年团"
+        },
+        {
+          "label": "D",
+          "value": "中国青年团组织"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项不是共青团的组织原则？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "少数服从多数"
+        },
+        {
+          "label": "B",
+          "value": "个人服从组织"
+        },
+        {
+          "label": "C",
+          "value": "下级组织服从上级组织"
+        },
+        {
+          "label": "D",
+          "value": "地方组织服从中央组织"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "团章规定，团员没有正当理由，连续几个月不交纳团费、不过团的组织生活，均被认为是自行脱团？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "三个月"
+        },
+        {
+          "label": "B",
+          "value": "六个月"
+        },
+        {
+          "label": "C",
+          "value": "九个月"
+        },
+        {
+          "label": "D",
+          "value": "十二个月"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产主义青年团团旗旗面为红色，象征什么？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "革命胜利"
+        },
+        {
+          "label": "B",
+          "value": "青春理想"
+        },
+        {
+          "label": "C",
+          "value": "团结互助"
+        },
+        {
+          "label": "D",
+          "value": "蓬勃朝气"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "共青团中央委员会受谁的领导？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "党中央委员会"
+        },
+        {
+          "label": "B",
+          "value": "国务院"
+        },
+        {
+          "label": "C",
+          "value": "全国人大常委会"
+        },
+        {
+          "label": "D",
+          "value": "全国政协"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "申请入团的青年应有几名团员介绍？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "一名"
+        },
+        {
+          "label": "B",
+          "value": "两名"
+        },
+        {
+          "label": "C",
+          "value": "三名"
+        },
+        {
+          "label": "D",
+          "value": "四名"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项不是团员享有的权利？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "选举权、被选举权和表决权"
+        },
+        {
+          "label": "B",
+          "value": "要求入团的青年要向支部委员会提出申请，填写入团志愿书，经支部大会讨论通过和上级委员会批准，才能成为团员"
+        },
+        {
+          "label": "C",
+          "value": "参加团组织讨论对自己处分的会议，并且可以申辩，其他团员可以为其作证和辩护"
+        },
+        {
+          "label": "D",
+          "value": "向团的任何一级组织直至中央委员会提出请求、申诉和控告，并要求有关组织给以负责的答复"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "团的全国代表大会每几年举行一次？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "三年"
+        },
+        {
+          "label": "B",
+          "value": "四年"
+        },
+        {
+          "label": "C",
+          "value": "五年"
+        },
+        {
+          "label": "D",
+          "value": "六年"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项是团员必须履行的义务？",
+      "targetsUser": "干事",
+      "options": [
+        {
+          "label": "A",
+          "value": "可以不参加团组织开展的学习教育活动"
+        },
+        {
+          "label": "B",
+          "value": "对团的决议如有不同意见，可以不执行"
+        },
+        {
+          "label": "C",
+          "value": "接受国防教育，增强国防意识，积极履行保卫祖国的义务"
+        },
+        {
+          "label": "D",
+          "value": "可以不宣传、执行党的基本路线和各项方针政策"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院院长是 ____ 。",
+      "answer": "胡念青"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院党总支书记是 ____ 。",
+      "answer": "贾冲"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院党总支组织员是 ____ 。",
+      "answer": "曾宇"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院学生工作办公室主任是 ____ 。",
+      "answer": "尹隆龙"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院学生一支部书记是 ____ 。",
+      "answer": "郭晗昕"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院学生二支部书记是 ____ 。",
+      "answer": "叶青"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院学生三支部书记是 ____ 。",
+      "answer": "粟扬"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院学生四支部书记是 ____ 。",
+      "answer": "何茜"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院分团委书记是 ____ 。",
+      "answer": "马露"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "团组织生活观摩会主题：",
+      "answer": "青春为中国式现代化挺膺担当"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "第二十一届运动会、科博节主题是：",
+      "answer": "筑梦文理，启航未来"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "现任学生干部为第几届学生干部？",
+      "answer": "第十九届"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院校友分会为第几届？",
+      "answer": "第十五届"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "成都文理学院拥有的二级学院有几个？",
+      "answer": "十一个"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "成都文理学院拥有的二级学院分别是哪些？",
+      "answer": "人工智能与大数据学院、传媒与演艺学院、外国语学院、文法学院、体育与大健康学院、建筑学院、经济与管理学院、会计学院、艺术学院、教育学院、马克思主义学院"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院2022级___个班，2023级___个班，2023级专升本___个班，2024级___个班，2024级专升本___个班",
+      "answer": "23、25、27、45、26"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "学生公寓自我管理委员会人工智能与大数据学院分会指导老师是 ____ 、人工智能与大数据学院教学秘书是 ____ 、人工智能与大数据学院分团委社团管理部指导老师是 ____ 、人工智能与大数据学院校友分会指导老师是 ____ 。",
+      "answer": "林欣滢、时月梅、李贞、牟智红、邵湘萱、何茜"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "A213辅导员有____、A215辅导员有____、A217辅导员有____、A201辅导员有_____。",
+      "answer": "刘俐宏、粟扬、李濡伊、林欣滢、郑婷、马露、宋宏、郭晗昕；邵湘萱、郎玲玲、尹隆龙、程恋、；黄扬扬、史喜凤、叶青、李蕴琪；韩辉辉、曾宇、王小琴、余清卓、蒲兰军、李静、刘阳"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "运动会教师组团体总分排名是 ____ 。",
+      "answer": "第五名"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "运动会学生组团体总分排名是 ____ 。",
+      "answer": "第三名"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "请写出分团委的所有部门 ____ 。",
+      "answer": "组织部、宣传部、技术部、记者团"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "学生分会所有部门 ____ 。",
+      "answer": "对外联络部、秘书处、青年志愿者分队、生活权益部、体育部、文艺部、学习部、辩论队"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "校友分会所有部门 ____ 。",
+      "answer": "联络部、秘书处、宣传部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "分团委学生社团管理部部门有 ____ 。",
+      "answer": "办公室、监察部、宣传部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "学生公寓自我管理委员会分会部门有 ____ 。",
+      "answer": "办公室、外联部、宣传部、楼管部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "带2023级（不包括专升本）的辅导员有____、带2022级的辅导员有____、带2024级（不含专升本）的辅导员有____。",
+      "answer": "郭晗昕、林欣滢、李濡伊、郑婷；马露、粟扬、宋宏、刘俐宏；韩辉辉、曾宇、蒲兰军、李静、刘阳、王小琴、余清卓"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院本科专业_____（全称）。",
+      "answer": "计算机科学与技术、物联网工程、网络工程、电子商务（本）、数据科学与大数据技术"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "人工智能与大数据学院专科专业_____（全称）。",
+      "answer": "计算机应用技术、数字媒体技术、电子商务（专）、信息安全技术应用、云计算技术应用"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "活动四件套_____",
+      "answer": "策划书、新闻稿、照片、总结"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "干事",
+      "text": "开会四件套_____",
+      "answer": "团徽、本子、笔、工作牌"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部如何更好地沟通与团队协作？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "强调个人权威"
+        },
+        {
+          "label": "B",
+          "value": "注重团队建设"
+        },
+        {
+          "label": "C",
+          "value": "避免与同学交流"
+        },
+        {
+          "label": "D",
+          "value": "独断专行，不征求意见"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部应该如何处理同学间的矛盾和纠纷？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "偏袒某一方"
+        },
+        {
+          "label": "B",
+          "value": "公正中立，调解矛盾"
+        },
+        {
+          "label": "C",
+          "value": "采取暴力手段，解决问题"
+        },
+        {
+          "label": "D",
+          "value": "不理睬，自然解决"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部的团队管理应该遵循哪个原则？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "个人英雄主义"
+        },
+        {
+          "label": "B",
+          "value": "集体领导，民主决策"
+        },
+        {
+          "label": "C",
+          "value": "严厉指挥，严加管理"
+        },
+        {
+          "label": "D",
+          "value": "追求个人利益"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "学生干部在处理校园活动预算时，应该优先考虑？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "节省成本，尽量减少支出"
+        },
+        {
+          "label": "B",
+          "value": "合理分配，确保活动顺利进行"
+        },
+        {
+          "label": "C",
+          "value": "挪用公款，满足个人需求"
+        },
+        {
+          "label": "D",
+          "value": "不考虑预算，随意支配资金"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院在第届二十一师生运动会中学生组的名次是（  ）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "value": "6"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院教学秘书办公室是（  ）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "A216"
+        },
+        {
+          "label": "B",
+          "value": "A215"
+        },
+        {
+          "label": "C",
+          "value": "A214"
+        },
+        {
+          "label": "D",
+          "value": "A213"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的首次全国代表大会在哪一年举行？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年"
+        },
+        {
+          "label": "B",
+          "value": "1921年"
+        },
+        {
+          "label": "C",
+          "value": "1922年"
+        },
+        {
+          "label": "D",
+          "value": "1923年"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的最高权力机关是？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "中央委员会"
+        },
+        {
+          "label": "B",
+          "value": "中央政治局"
+        },
+        {
+          "label": "C",
+          "value": "全国代表大会"
+        },
+        {
+          "label": "D",
+          "value": "中央纪律检查委员会"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的创建地点是？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "上海"
+        },
+        {
+          "label": "B",
+          "value": "北京"
+        },
+        {
+          "label": "C",
+          "value": "南昌"
+        },
+        {
+          "label": "D",
+          "value": "广州"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的创建日期是？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年7月23日"
+        },
+        {
+          "label": "B",
+          "value": "1921年7月1日"
+        },
+        {
+          "label": "C",
+          "value": "1921年7月23日"
+        },
+        {
+          "label": "D",
+          "value": "1921年8月1日"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产党的最高理想信念是？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "共产主义"
+        },
+        {
+          "label": "B",
+          "value": "社会主义"
+        },
+        {
+          "label": "C",
+          "value": "马克思主义"
+        },
+        {
+          "label": "D",
+          "value": "列宁主义"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共青团的建立日期是？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "1920年7月23日"
+        },
+        {
+          "label": "B",
+          "value": "1923年5月5日"
+        },
+        {
+          "label": "C",
+          "value": "1921年7月1日"
+        },
+        {
+          "label": "D",
+          "value": "1922年1月1日"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "2021-2022学年度我校举办的 “一院一品”电脑嘉年华系列活动之计算机技能大赛是第（  ）届",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "15"
+        },
+        {
+          "label": "B",
+          "value": "12"
+        },
+        {
+          "label": "C",
+          "value": "14"
+        },
+        {
+          "label": "D",
+          "value": "13"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院的微信公众号名称是（ ）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "信运有你，E路同行"
+        },
+        {
+          "label": "B",
+          "value": "文理智数"
+        },
+        {
+          "label": "C",
+          "value": "成都文理信工在线"
+        },
+        {
+          "label": "D",
+          "value": "成都文理信息工程学院"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "每月部门总结上交时间（  ）",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "19日23:00"
+        },
+        {
+          "label": "B",
+          "value": "18日23:00"
+        },
+        {
+          "label": "C",
+          "value": "19日24:00"
+        },
+        {
+          "label": "D",
+          "value": "18日24:00"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "在2024年9月23日，我院成功并且顺利举办了第（）届Upower校园大使选拔赛决赛。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "十"
+        },
+        {
+          "label": "B",
+          "value": "十一"
+        },
+        {
+          "label": "C",
+          "value": "十二"
+        },
+        {
+          "label": "D",
+          "value": "十三"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "科任老师的办公室在（）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "A217"
+        },
+        {
+          "label": "B",
+          "value": "A317"
+        },
+        {
+          "label": "C",
+          "value": "A213"
+        },
+        {
+          "label": "D",
+          "value": "A211"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "在选拔新一届学生会成员时，最重要的评价标准是（）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "个人才艺展示"
+        },
+        {
+          "label": "B",
+          "value": "过往工作经验"
+        },
+        {
+          "label": "C",
+          "value": "团队合作精神和责任感"
+        },
+        {
+          "label": "D",
+          "value": "学习成绩优异"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "人工智能与大数据学院用于日常活动报名的微信小程序名称是（）。",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "信息小助手"
+        },
+        {
+          "label": "B",
+          "value": "芯系小助手"
+        },
+        {
+          "label": "C",
+          "value": "信工小助手"
+        },
+        {
+          "label": "D",
+          "value": "文理小助手"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "共青团的最早名称叫什么？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "中国社会主义青年团"
+        },
+        {
+          "label": "B",
+          "value": "中国共产主义青年团"
+        },
+        {
+          "label": "C",
+          "value": "中国新民主主义青年团"
+        },
+        {
+          "label": "D",
+          "value": "中国青年团组织"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项不是共青团的组织原则？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "少数服从多数"
+        },
+        {
+          "label": "B",
+          "value": "个人服从组织"
+        },
+        {
+          "label": "C",
+          "value": "下级组织服从上级组织"
+        },
+        {
+          "label": "D",
+          "value": "地方组织服从中央组织"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "团章规定，团员没有正当理由，连续几个月不交纳团费、不过团的组织生活，均被认为是自行脱团？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "三个月"
+        },
+        {
+          "label": "B",
+          "value": "六个月"
+        },
+        {
+          "label": "C",
+          "value": "九个月"
+        },
+        {
+          "label": "D",
+          "value": "十二个月"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "中国共产主义青年团团旗旗面为红色，象征什么？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "革命胜利"
+        },
+        {
+          "label": "B",
+          "value": "青春理想"
+        },
+        {
+          "label": "C",
+          "value": "团结互助"
+        },
+        {
+          "label": "D",
+          "value": "蓬勃朝气"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "共青团中央委员会受谁的领导？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "党中央委员会"
+        },
+        {
+          "label": "B",
+          "value": "国务院"
+        },
+        {
+          "label": "C",
+          "value": "全国人大常委会"
+        },
+        {
+          "label": "D",
+          "value": "全国政协"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "type": "single-choice",
+      "text": "申请入团的青年应有几名团员介绍？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "一名"
+        },
+        {
+          "label": "B",
+          "value": "两名"
+        },
+        {
+          "label": "C",
+          "value": "三名"
+        },
+        {
+          "label": "D",
+          "value": "四名"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项不是团员享有的权利？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "选举权、被选举权和表决权"
+        },
+        {
+          "label": "B",
+          "value": "要求入团的青年要向支部委员会提出申请，填写入团志愿书，经支部大会讨论通过和上级委员会批准，才能成为团员"
+        },
+        {
+          "label": "C",
+          "value": "参加团组织讨论对自己处分的会议，并且可以申辩，其他团员可以为其作证和辩护"
+        },
+        {
+          "label": "D",
+          "value": "向团的任何一级组织直至中央委员会提出请求、申诉和控告，并要求有关组织给以负责的答复"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "type": "single-choice",
+      "text": "团的全国代表大会每几年举行一次？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "三年"
+        },
+        {
+          "label": "B",
+          "value": "四年"
+        },
+        {
+          "label": "C",
+          "value": "五年"
+        },
+        {
+          "label": "D",
+          "value": "六年"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "single-choice",
+      "text": "以下哪项是团员必须履行的义务？",
+      "targetsUser": "部长",
+      "options": [
+        {
+          "label": "A",
+          "value": "可以不参加团组织开展的学习教育活动"
+        },
+        {
+          "label": "B",
+          "value": "对团的决议如有不同意见，可以不执行"
+        },
+        {
+          "label": "C",
+          "value": "接受国防教育，增强国防意识，积极履行保卫祖国的义务"
+        },
+        {
+          "label": "D",
+          "value": "可以不宣传、执行党的基本路线和各项方针政策"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院院长是 ____ 。",
+      "answer": "胡念青"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院党总支书记是 ____ 。",
+      "answer": "贾冲"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院党总支组织员是 ____ 。",
+      "answer": "曾宇"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院学生工作办公室主任是 ____ 。",
+      "answer": "尹隆龙"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院学生一支部书记是 ____ 。",
+      "answer": "郭晗昕"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院学生二支部书记是 ____ 。",
+      "answer": "叶青"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院学生三支部书记是 ____ 。",
+      "answer": "粟扬"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院学生四支部书记是 ____ 。",
+      "answer": "何茜"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院分团委书记是 ____ 。",
+      "answer": "马露"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "团组织生活观摩会主题：",
+      "answer": "青春为中国式现代化挺膺担当"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "第二十一届运动会、科博节主题是：",
+      "answer": "筑梦文理，启航未来"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "现任学生干部为第几届学生干部？",
+      "answer": "第十九届"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院校友分会为第几届？",
+      "answer": "第十五届"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "成都文理学院拥有的二级学院有几个？",
+      "answer": "十一个"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "成都文理学院拥有的二级学院分别是哪些？",
+      "answer": "人工智能与大数据学院、传媒与演艺学院、外国语学院、文法学院、体育与大健康学院、建筑学院、经济与管理学院、会计学院、艺术学院、教育学院、马克思主义学院"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院2022级___个班，2023级___个班，2023级专升本___个班，2024级___个班，2024级专升本___个班",
+      "answer": "23、25、27、45、26"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "学生公寓自我管理委员会人工智能与大数据学院分会指导老师是 ____ 、人工智能与大数据学院教学秘书是 ____ 、人工智能与大数据学院分团委社团管理部指导老师是 ____ 、人工智能与大数据学院校友分会指导老师是 ____ 。",
+      "answer": "林欣滢、时月梅、李贞、牟智红、邵湘萱、何茜"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "A213辅导员有____、A215辅导员有____、A217辅导员有____、A201辅导员有_____。",
+      "answer": "刘俐宏、粟扬、李濡伊、林欣滢、郑婷、马露、宋宏、郭晗昕；邵湘萱、郎玲玲、尹隆龙、程恋、；黄扬扬、史喜凤、叶青、李蕴琪；韩辉辉、曾宇、王小琴、余清卓、蒲兰军、李静、刘阳"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "运动会教师组团体总分排名是 ____ 。",
+      "answer": "第五名"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "运动会学生组团体总分排名是 ____ 。",
+      "answer": "第三名"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "请写出分团委的所有部门 ____ 。",
+      "answer": "组织部、宣传部、技术部、记者团"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "学生分会所有部门 ____ 。",
+      "answer": "对外联络部、秘书处、青年志愿者分队、生活权益部、体育部、文艺部、学习部、辩论队"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "校友分会所有部门 ____ 。",
+      "answer": "联络部、秘书处、宣传部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "分团委学生社团管理部部门有 ____ 。",
+      "answer": "办公室、监察部、宣传部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "学生公寓自我管理委员会分会部门有 ____ 。",
+      "answer": "办公室、外联部、宣传部、楼管部"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "带2023级（不包括专升本）的辅导员有____、带2022级的辅导员有____、带2024级（不含专升本）的辅导员有____。",
+      "answer": "郭晗昕、林欣滢、李濡伊、郑婷；马露、粟扬、宋宏、刘俐宏；韩辉辉、曾宇、蒲兰军、李静、刘阳、王小琴、余清卓"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院本科专业_____（全称）。",
+      "answer": "计算机科学与技术、物联网工程、网络工程、电子商务（本）、数据科学与大数据技术"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "人工智能与大数据学院专科专业_____（全称）。",
+      "answer": "计算机应用技术、数字媒体技术、电子商务（专）、信息安全技术应用、云计算技术应用"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "活动四件套_____",
+      "answer": "策划书、新闻稿、照片、总结"
+    },
+    {
+      "type": "fill-in-the-blank",
+      "targetsUser": "部长",
+      "text": "开会四件套_____",
+      "answer": "团徽、本子、笔、工作牌"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+<view class="course-list data-v-e9858b00"><view wx:for="{{a}}" wx:for-item="item" wx:key="a" class="course-item__content data-v-e9858b00"></view></view>

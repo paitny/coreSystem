@@ -1,0 +1,35 @@
+{
+  "name": "itstudentserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "connect-mongo": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.9.0",
+    "mongoose": "^7.5.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-schedule": "^2.1.1",
+    "qrcode": "^1.5.4",
+    "random-key": "^0.3.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "svg-captcha": "^1.4.0",
+    "winston": "^3.12.0",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="notice-wrap"><image src="{{b}}" mode=""></image><view class="tongzhitext"><text class="tongzhi-text">{{c}}</text></view><view bindtap="{{d}}" class="closeView">x</view></view>

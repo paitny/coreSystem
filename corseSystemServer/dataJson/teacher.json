@@ -1,0 +1,30 @@
+[
+
+  {
+    "id": 1,
+    "name": "胡念青",
+    "position": "院长",
+    "office": "A214",
+    "img": "/file/teachers/default.jpg",
+    "introduction": "人工智能与大数据学院院长"
+
+  },
+  {
+    "id": 2,
+    "name": "叶青",
+    "position": "学生第二党支部书记",
+    "office": "A217",
+    "img": "/file/teachers/default.jpg",
+    "introduction": "人工智能与大数据学院学生第二党支部书记"
+
+  },
+  {
+    "id": 3,
+    "name": "马露",
+    "position": "分团委书记",
+    "office": "A215",
+    "img": "/file/teachers/default.jpg",
+    "introduction": "人工智能与大数据学院分团委、学生分会指导老师"
+
+  }
+]

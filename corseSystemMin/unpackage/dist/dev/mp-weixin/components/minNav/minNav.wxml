@@ -1,0 +1,1 @@
+<view class="Options"><view wx:for="{{a}}" wx:for-item="item" wx:key="e" class="Option"><image class="option" src="{{item.a}}" bindtap="{{item.b}}"></image><view class="p" bindtap="{{item.d}}">{{item.c}}</view></view></view>

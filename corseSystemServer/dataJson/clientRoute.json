@@ -1,0 +1,245 @@
+[
+  {
+    "path": "/profile",
+    "title": "个人中心",
+    "icon": "user",
+    "children": []
+  },
+  {
+    "path": "/analysis",
+    "title": "数据分析",
+    "icon": "analysis",
+    "children": []
+  },
+  {
+    "path": "/userSport",
+    "title": "用户管理",
+    "icon": "personCenter",
+    "children": []
+  },
+  {
+    "path": "/feedback",
+    "title": "账号反馈",
+    "icon": "feedback",
+    "children": []
+  },
+  {
+    "path": "/visitorSport",
+    "title": "访客",
+    "icon": "visitor",
+    "children": []
+  },
+
+  {
+    "path": "/volunteer",
+    "title": "学生活动",
+    "icon": "volunteer",
+    "children": [
+      {
+        "path": "/volunteer/volunteerAdd",
+        "title": "活动发布",
+        "icon": "volunteer-add"
+      },
+      {
+        "path": "/volunteer/volunteerMg",
+        "title": "报名信息",
+        "icon": "volunteer-mg"
+      },
+      {
+        "path": "/volunteer/quantization",
+        "title": "学生量化",
+        "icon": "quantization"
+      }
+    ]
+  },
+
+  {
+    "path": "/examine",
+    "title": "学干考核",
+    "icon": "examine",
+    "children": [
+      {
+        "path": "/examine/create",
+        "title": "考核详情",
+        "icon": "examineDetails",
+        "children": [
+          {
+            "path": "/examine/create/examinePublish",
+            "title": "考核发布",
+            "icon": "examinePublish"
+          },
+          {
+            "path": "/examine/create/examineQuestion",
+            "title": "学干考核",
+            "icon": "examineQuestion"
+          }
+        ]
+      },
+      {
+        "path": "/examine/examineMg",
+        "title": "阅卷中心",
+        "icon": "examineMg"
+      },
+      {
+        "path": "/examine/freeStudentCadres",
+        "title": "空闲学干",
+        "icon": "freeTime"
+      }
+    ]
+  },
+  {
+    "path": "/checkCourse",
+    "title": "智数查课",
+    "icon": "checkCourse",
+    "children": [
+      {
+        "path": "/checkCourse/uploadClassCourse",
+        "title": "班级课表批量导入",
+        "icon": "uploadClassCourse"
+
+      },
+      {
+        "path": "/checkCourse/create",
+        "title": "班级课表",
+        "icon": "checkCourseCreate"
+
+      },
+      {
+        "path": "/checkCourse/checkCourseMg",
+        "title": "查课情况",
+        "icon": "checkCourseMg"
+      }
+
+    ]
+  },
+  {
+    "path": "/trends",
+    "title": "用户动态",
+    "icon": "trends",
+    "children": [
+      {
+        "path": "/trends/process",
+        "title": "动态审核",
+        "icon": "bgsan"
+      },
+      {
+        "path": "/trends/leaveMg",
+        "title": "动态管理",
+        "icon": "trendsMg"
+      }
+    ]
+  },
+  {
+    "path": "/studentOrg",
+    "title": "学生机构",
+    "icon": "studentOrg",
+    "children": [
+      {
+        "path": "/studentOrg/create",
+        "title": "机构部门创建",
+        "icon": "orgcreate",
+        "children": [
+          {
+            "path": "/studentOrg/create/institution",
+            "title": "机构创建",
+            "icon": "departmentCreate"
+          },
+          {
+            "path": "/studentOrg/create/department",
+            "title": "部门创建",
+            "icon": "iTeam"
+          }
+        ]
+      },
+      {
+        "path": "/studentOrg/studentOrgMg",
+        "title": "管理中心",
+        "icon": "orgMg"
+      }
+    ]
+  },
+
+  {
+    "path": "/notice",
+    "title": "通知",
+    "icon": "notice",
+    "children": [
+      {
+        "path": "/notice/noticeAdd",
+        "title": "通知发布",
+        "icon": "noticeAdd"
+      },
+      {
+        "path": "/notice/noticeManage",
+        "title": "通知管理",
+        "icon": "noticeMg"
+      }
+    ]
+  },
+  {
+    "path": "/newsMg",
+    "title": "信工咨询",
+    "icon": "article",
+    "children": [
+      {
+        "path": "/newsMg/newsAdd",
+        "title": "新闻添加",
+        "icon": "article-add"
+      },
+      {
+        "path": "/newsMg/newsManage",
+        "title": "新闻管理",
+        "icon": "article-manage"
+      }
+    ]
+  },
+
+  {
+    "path": "/alumnus",
+    "title": "优秀校友",
+    "icon": "alumnus",
+    "children": [
+      {
+        "path": "/alumnus/alumnusAdd",
+        "title": "榜样添加",
+        "icon": "alumnusAdd"
+      },
+      {
+        "path": "/alumnus/alumnusMg",
+        "title": "榜样管理",
+        "icon": "alumnusMg"
+      }
+    ]
+  },
+  {
+    "path": "/softData",
+    "title": "数据安全",
+    "icon": "softData",
+    "children": [
+      {
+        "path": "/softData/softDelete",
+        "title": "回收站",
+        "icon": "softDelete"
+      }
+
+    ]
+  },
+  {
+    "path": "/music",
+    "title": "管理员音乐",
+    "icon": "musiclist",
+    "children": [
+      {
+        "path": "/music/micAdd",
+        "title": "音乐添加",
+        "icon": "music-add"
+      },
+      {
+        "path": "/music/micMg",
+        "title": "音乐管理",
+        "icon": "music-manage"
+      }
+    ]
+  }
+
+]
